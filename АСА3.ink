@@ -101,7 +101,7 @@ VAR попытка = 0
 #Location: Delo_ZH_D
       Ты открываешь папку с досье 
  +[Задать вопросы]  -> a_reset
-=== a_reset ===
+=a_reset
 #Location: Ofis
 -> a  
 =a
