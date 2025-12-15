@@ -230,7 +230,7 @@ VAR попытка = 0
 -> ъ
 
 =d_ku
-#Location: Delo_Kot
+#Location: Delo_kot
 Ты открываешь папку с досье
 +[Задать вопросы] 
 #Location: Ofis
@@ -272,7 +272,7 @@ VAR попытка = 0
 -> э
 
 =d_ka
-#Location: Delo_Kashey
+#Location: Delo_Koshey
 Ты открываешь папку с досье
 +[Задать вопросы] 
 #Location: Ofis
