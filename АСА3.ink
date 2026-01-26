@@ -2891,7 +2891,7 @@ VAR пройдено = 0
 ТЫ:
 *   [УНИЧТОЖИТЬ МАШИНУ] -> destroy_machine
 *   [ЗАПУСТИТЬ ПРЕОБРАЗОВАТЕЛЬ] -> activate_machine
-*   [НАЙТИ КОМПРОМИСС] -> attempt_compromise
+*   [ПОПЫТАТЬСЯ НАЙТИ КОМПРОМИСС] -> attempt_compromise
 *   [БЕЖАТЬ] -> run_away
 
 === destroy_machine ===
